@@ -1,0 +1,11 @@
+{ 
+   "shell-theme": {
+       "name": "ACIDO", 
+       "author": "Padster/SixSixFive/Miguelos", 
+       "version": "1.2.0",
+       "type": "custom",
+       "disabled": false,
+       "thumbnail": "preview-acido.png",
+       "url": "https://github.com/Miguelos/ACIDO"
+   }
+}
