@@ -6,4 +6,5 @@ This GNOME-Shell theme is based on the ACID GNOME-SHELL theme (http://sixsixfive
 
 
 
-License: CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+# License
+CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/3.0/)
