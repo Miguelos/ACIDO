@@ -1,6 +1,6 @@
 ## Gnome Shell Theme
 
-Minimal [Gnome Shell](https://live.gnome.org/GnomeShell) theme.
+Minimal [Gnome Shell 3.6](https://live.gnome.org/GnomeShell) theme
 
 ![preview](https://raw.github.com/Miguelos/ACIDO/dev/ACIDO/gnome-shell/preview-acido.png)
 
