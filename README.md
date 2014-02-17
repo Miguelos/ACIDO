@@ -1,4 +1,4 @@
-## Gnome Shell Theme
+# Gnome Shell Theme
 
 Minimal [Gnome Shell 3.6](https://live.gnome.org/GnomeShell) theme
 
@@ -7,8 +7,8 @@ Minimal [Gnome Shell 3.6](https://live.gnome.org/GnomeShell) theme
 This GNOME-Shell theme is based on the ACID GNOME-SHELL theme (http://sixsixfive.deviantart.com/art/ACID-280889262) by SixSixFive (http://sixsixfive.deviantart.com/).
 
 
-# Resources
+## Resources
 *[CSS styles sheet](http://forum.pinguyos.com/attachment.php?aid=907)*
 
-# License
+## License
 CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/3.0/)
